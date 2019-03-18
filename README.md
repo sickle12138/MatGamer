@@ -1,2 +1,2 @@
 # MatGamer
-everything
+基于MATLAB游戏代理框架，通过图像处理技术获取游戏状态，操作鼠标键盘进行游戏
